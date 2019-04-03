@@ -1,0 +1,7 @@
+E:\TECH SIEC PROJEKTY\BINARNY\Klient\Klient\bin\Release\Klient.exe.config
+E:\TECH SIEC PROJEKTY\BINARNY\Klient\Klient\bin\Release\Klient.exe
+E:\TECH SIEC PROJEKTY\BINARNY\Klient\Klient\bin\Release\Klient.pdb
+E:\TECH SIEC PROJEKTY\BINARNY\Klient\Klient\obj\Release\Klient.csproj.CoreCompileInputs.cache
+E:\TECH SIEC PROJEKTY\BINARNY\Klient\Klient\obj\Release\Klient.exe
+E:\TECH SIEC PROJEKTY\BINARNY\Klient\Klient\obj\Release\Klient.pdb
+E:\TECH SIEC PROJEKTY\BINARNY\Klient\Klient\obj\Release\Klient.csprojAssemblyReference.cache
